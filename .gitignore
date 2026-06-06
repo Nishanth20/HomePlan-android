@@ -4,7 +4,8 @@ build/
 .idea/
 *.iml
 local.properties
-*.apk
+# *.apk
+!releases/download/v1.0.0/HomePlan-android.apk
 *.aab
 *.jks
 *.keystore

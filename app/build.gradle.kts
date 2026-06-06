@@ -124,3 +124,25 @@ dependencies {
   "ksp"(libs.androidx.room.compiler)
   "ksp"(libs.moshi.kotlin.codegen)
 }
+
+tasks.register("copyApkToRelease") {
+    dependsOn("assembleDebug")
+    doLast {
+        val buildDir = layout.buildDirectory.get().asFile
+        val apkFile = File(buildDir, "outputs/apk/debug/app-debug.apk")
+        val destDir = File(rootDir, "releases/download/v1.0.0")
+        if (apkFile.exists()) {
+            destDir.mkdirs()
+            val destFile = File(destDir, "HomePlan-android.apk")
+            apkFile.copyTo(destFile, overwrite = true)
+            println("Successfully copied APK to ${destFile.absolutePath}")
+            
+            println("Files in ${destDir.absolutePath}:")
+            destDir.listFiles()?.forEach { file ->
+                println(" - ${file.name} (${file.length()} bytes)")
+            }
+        } else {
+            error("APK file does not exist at ${apkFile.absolutePath}")
+        }
+    }
+}
