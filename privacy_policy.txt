@@ -1,0 +1,24 @@
+LOANLAB INDIA — PRIVACY POLICY
+Last Updated: June 2026
+
+At LoanLab India, your privacy is our supreme focus. We believe that your personal and financial information belongs strictly to you. This Privacy Policy is straightforward, legal, and easy to read.
+
+1. NO PERSONAL DATA COLLECTION
+We do not collect, request, gather, transit, or store any personal data, name, contact info, device telemetry, or tracking numbers inside this app. You do not need to register, configure accounts, or log in to use LoanLab India.
+
+2. LOCAL-ONLY COMPUTATION (OFFLINE FIRST)
+All financial inputs, original loan amounts, annual rates, prepayments, interest rate shock triggers, and historic profiles are stored securely on your local device using standard Android SQLite (via Room) and local encrypted file preferences (Preferences DataStore). No database runs cloud servers or syncs. All calculations are handled locally by your device's processor.
+
+3. ZERO INTERNET USAGE
+The app does not use, declare, or request the network state. Absolutely zero telemetry, analytics, or error logs leave your device. All calculations, ledger exports (PDF, CSV), and print operations are compiled locally using local system libraries.
+
+4. EXPORT FILES MANAGEMENT
+Documents (PDFs or Excel CSVs) that you choose to generate or print are compiled entirely in your private cache directory (`context.cacheDir`) and shared under secure Android FileProvider protocol APIs. The app has no access to any files on your device outside its sandboxed storage boundaries.
+
+5. SECURITY OF YOUR DATA
+Since all data is localized entirely on your hardware, your bank data security matches the security of your physical Android device. We advise keeping your operating system up to date with the latest security updates.
+
+6. CONTACT & ENQUIRIES
+For general support or feedback regarding the application, please mail developers through the support links listed in our Google Play Store Page.
+
+LoanLab India is 100% offline, local, and secure. Safe planning!

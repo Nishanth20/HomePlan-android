@@ -1,0 +1,25 @@
+App Name: LoanLab India — Home Loan Planner
+Short description (80 chars): Plan your Indian home loan. Track EMI, savings and tax benefits.
+Full description:
+LoanLab India is an advanced, offline-first home loan planner designed specifically for Indian home buyers and floating rate mortgage borrowers. Whether you are planning a new property purchase or aggressively trying to pay off your existing home loan, LoanLab India provides Apple-level visual design and Bloomberg-level analytical depth to help you save lakhs in interest and close your loan years early.
+
+Unlike simple online EMI calculators that mask the compounding nature of mortgage interest, LoanLab India executes full financial simulations including custom lump sum prepayments, extra EMI plans, floating interest rate transitions, and tax-saver deductions (Section 24b and Section 80C) over the full loan tenure.
+
+Why use LoanLab India?
+• COMPLETE FINANCIAL TRANSPARENCY: Enter your loan amount, interest rate, and tenure to quickly view your true monthly EMI, total interest liability, and payoff date.
+• DUAL PREPAYMENT ADVISOR: Compare "Pay Off Faster" (Reduce Tenure) vs. "Pay Less Each Month" (Reduce EMI) strategies side-by-side to choose the best option for your budget.
+• RATE SHOCK ANALYSIS: Plan for future RBI repo rate hikes or concessions. Enter expected interest rate changes by month to instantly see how they affect your interest burden.
+• ANNUAL LEDGER ROLLUPS: Avoid spreadsheet fatigue. View year-by-year rollups of principal paid, interest paid, and remaining balance with interactive visual expanders.
+• SEC 24b & 80C DESK: Calculate annual income tax deductions based on real capped calculations, making it simple to plan your tax files with your CA.
+• HISTORIC SAVED PROFILES: Store and toggle between multiple home loan scenarios or property offers dynamically.
+• MULTI-FORMAT EXPORTING: Generate comprehensive PDF reports, print dynamic table ledgers, or compile all analytical tables into uncompressed Excel-compatible spreadsheets (.CSV) or compact zip archives locally.
+
+100% OFF-LINE & SECURE
+LoanLab India values your financial privacy. No account or registration is required. All math and data are processed locally on your device. We never request internet permissions, and absolutely zero financial or personal data leaves your phone.
+
+DISCLAIMER
+This application is for informational and educational purposes only. It is not financial advice. Tax and deduction parameters are estimations — please consult a certified chartered accountant (CA) or certified financial planner before making major investment or payment decisions.
+
+Category: Finance
+Content rating: Everyone
+Tags: home loan, emi calculator, india, mortgage, prepayment, tax benefit, loan planner

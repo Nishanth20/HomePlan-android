@@ -1,0 +1,15 @@
+# Built-in GitIgnore for Android Kotlin Projects
+.gradle/
+build/
+.idea/
+*.iml
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+.DS_Store
+captures/
+.externalNativeBuild/
+*.log
+google-services.json

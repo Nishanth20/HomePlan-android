@@ -1,0 +1,6 @@
+{
+  "name": "HomePlan-android",
+  "description": "Production-grade, high-precision Home Loan Amortization Simulator with smart prepayments, dynamic rate stress lab, and tax benefits estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
