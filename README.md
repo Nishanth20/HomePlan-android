@@ -16,7 +16,7 @@
 ## 📥 Download Standalone Application
 
 <p align="center">
-  <a href="releases/download/v1.0.0/HomePlan-android.apk">
+  <a href="https://github.com/Nishanth20/HomePlan-android/raw/main/releases/download/v1.0.0/HomePlan-android.apk">
     <img src="https://img.shields.io/badge/Download_APK_Binary-HomePlan--android.apk-0078D4?style=for-the-badge&logo=android&logoColor=white" width="370" alt="Download HomePlan-android.apk" />
   </a>
 </p>
