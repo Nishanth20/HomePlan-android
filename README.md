@@ -13,6 +13,25 @@
 
 ---
 
+## 📥 Download Standalone Application
+
+<p align="center">
+  <a href="releases/download/v1.0.0/HomePlan-android.apk">
+    <img src="https://img.shields.io/badge/Download_APK_Binary-HomePlan--android.apk-0078D4?style=for-the-badge&logo=android&logoColor=white" width="370" alt="Download HomePlan-android.apk" />
+  </a>
+</p>
+
+> ⚠️ **Google Play Protect & Security Walkthrough:**
+> Because this is a production-grade offline application published directly on GitHub (not on the commercial Google Play Store), Google's Play Protect service might prompt a *"Blocked by Play Protect"* or *"Unsafe App Blocked"* popup message on installation. 
+>
+> Please follow these **2 simple steps** to authorize and complete installation:
+> 1. In the Play Protect prompt, click or expand **"More details"** (or tap the drop-down arrow).
+> 2. Tap **"Install anyway"** to complete the installation.
+>
+> *🔒 **Zero Permissions, Full Privacy Guarantee:** Under our strict offline mandate, this application is built without requesting ANY network sockets or internet permissions. Because it is completely isolated locally, none of your financial calculations, salaries, or numbers can ever leave your physical device.*
+
+---
+
 ## 📱 App Tour
 
 <p align="center">
@@ -51,11 +70,10 @@
 - **Footprint**: ~8-12 MB
 - **Runtime**: Fully self-contained offline architecture
 
-### 2. Physical Installation
-1. Navigate to the **Releases** tab in this repository.
-2. Download the latest `HomePlan-android.apk` release package.
-3. Authorize *install from unknown sources* within your Android OS security settings.
-4. Open the APK file to deploy, run, and complete the instant 5-step onboarding tutorial.
+### 2. Manual Setup
+1. Click the blue **Download APK** badge above, which directly targets the release package binary file `HomePlan-android.apk`.
+2. Authorize *install from unknown sources* within your Android OS security settings if requested.
+3. Open the APK file to deploy, bypass the Play Protect notification as illustrated above, and complete the instant 5-step onboarding tutorial.
 
 ### 3. Developer Source Builds
 ```bash
